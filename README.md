@@ -14,7 +14,7 @@ V zgodovini tega repozitorija se skriva namig, ki vas bo pripeljal do konca nalo
    ```
    git clone https://github.com/racunalniski-praktikum/prismojeni-repo.git
    ```
-2. Premaknite se v imenik z repozitorijem z ukazom `cd rp-prismojeni-repo`.
+2. Premaknite se v imenik z repozitorijem z ukazom `cd prismojeni-repo`.
 3. Oglejte si zgodovino repozitorija z ukazom `git log --pretty=format:"%h - %an, %ar : %s"`.
    V resnici bi zadoščalo napisati samo `git log`, ampak boste lažje našli željeno s prvim ukazom.
 4. Namig se nahaja na samo enem mestu v zgodovini repozitorija. 
