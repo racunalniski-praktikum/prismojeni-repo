@@ -12,7 +12,7 @@ V zgodovini tega repozitorija se skriva namig, ki vas bo pripeljal do konca nalo
    kjer imate spravljene repozitorije.
    V ukazno vrstico prilepite spodnji ukaz in ga poženite.
    ```
-   git clone https://github.com/katjabercic/rp-prismojeni-repo.git
+   git clone https://github.com/racunalniski-praktikum/prismojeni-repo.git
    ```
 2. Premaknite se v imenik z repozitorijem z ukazom `cd rp-prismojeni-repo`.
 3. Oglejte si zgodovino repozitorija z ukazom `git log --pretty=format:"%h - %an, %ar : %s"`.
